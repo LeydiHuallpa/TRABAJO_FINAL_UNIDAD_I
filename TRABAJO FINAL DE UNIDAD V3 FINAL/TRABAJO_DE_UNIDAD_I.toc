@@ -1,0 +1,13 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}PROBLEMA}{1}
+\contentsline {section}{\numberline {2}MARCO TEORICO}{2}
+\contentsline {section}{\numberline {3}DESARROLLO}{4}
+\contentsline {subsection}{\numberline {3.1}ANALISIS (CASOS DE USO, SECUENCIAS, ACTIVIDADES)}{4}
+\contentsline {subsubsection}{\numberline {3.1.1}CASOS DE USO}{4}
+\contentsline {subsubsection}{\numberline {3.1.2}DIAGRAMA DE OBJETOS}{6}
+\contentsline {subsubsection}{\numberline {3.1.3}DIAGRAMA DE SECUENCIA}{7}
+\contentsline {subsubsection}{\numberline {3.1.4}DIAGRAMA DE ACTIVIDADES}{10}
+\contentsline {subsection}{\numberline {3.2}DISE\IeC {\~N}O (DIAGRAMA DE CLASES, MODELO ENTIDAD RELACION)}{11}
+\contentsline {subsubsection}{\numberline {3.2.1}DIAGRAMA DE CLASES}{11}
+\contentsline {subsubsection}{\numberline {3.2.2}MODELO ENTIDAD RELACION}{12}
+\contentsline {subsection}{\numberline {3.3}METODOS DE CLASES UTILIZADOS}{13}
