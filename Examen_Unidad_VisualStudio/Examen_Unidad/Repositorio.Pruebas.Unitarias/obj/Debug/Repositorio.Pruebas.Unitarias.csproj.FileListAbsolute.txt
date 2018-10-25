@@ -1,0 +1,17 @@
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\obj\Debug\Repositorio.Pruebas.Unitarias.csprojResolveAssemblyReference.cache
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\bin\Debug\Repositorio.Pruebas.Unitarias.dll
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\bin\Debug\Repositorio.Pruebas.Unitarias.pdb
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\bin\Debug\Repositorio.Dominio.dll
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\bin\Debug\Repositorio.Dominio.pdb
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\obj\Debug\Repositorio.Pruebas.Unitarias.dll
+C:\Users\AEPIS01\Desktop\Examen_Unidad\Examen_Unidad\Repositorio.Pruebas.Unitarias\obj\Debug\Repositorio.Pruebas.Unitarias.pdb
